@@ -1,14 +1,14 @@
 Package: psd4
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
+Title: User interface to Instrumentation Associates PSD data
+Version: 0.1.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Peter",
+           family = "Norgard",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+           email = "norgadrp@gmail.com",
+           comment = c(ORCID = "0000-0002-5332-5998"))
+Description: Provides functions to access Instrumentation Associates raw data files for studies of the powder spectrum diffractometer (PSD) data using user-supplied functions.
+License: `use_gpl3_license()`
     license
 Encoding: UTF-8
 LazyData: true
